@@ -22,3 +22,4 @@ Mixed Images: The mixed images are a combination of multiple source images creat
 Separated Images: After applying ICA, the algorithm successfully separates the mixed images back into their original components. The separated images should resemble the original sources, although some distortion may occur depending on the mixing process and the number of components used.
 Visualizations: The notebook contains visualizations of both the mixed images and the separated images, allowing you to compare the effectiveness of ICA in recovering the original sources.
 ![image](https://github.com/user-attachments/assets/821bedc1-fa0f-419c-9cb0-af1f267c7e83)
+Images were randomly selected from Google
